@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /resume/
+permalink: /about/
 ---
 
 To be uploaded soon.
