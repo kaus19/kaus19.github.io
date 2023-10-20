@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Be a Volunteer!
+title: Be a Volunteer! 🤝🏼
 ---
 
 ## Volunteering Experiences

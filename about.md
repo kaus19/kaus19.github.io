@@ -62,6 +62,5 @@ Paper - *Intelligent Orchestration of ADAS Pipelines on Next Generation Automoti
 
 ## Hobbies
 
-I like working out, [reading](https://www.goodreads.com/user/show/98522023-kaustubh), running and travelling.
-My Japanese proficiency is intermediate(JLPT N4 qualified) and I can get my way through ;) 
-日本語が話せます. 
+- I like running, playing sports(tennis, futsal, badminton), [reading](https://www.goodreads.com/user/show/98522023-kaustubh), and travelling.
+- I am learning Japanese, and communication in Japanese has been one of the highlights of my life in Tokyo. 日本語が話せます.
