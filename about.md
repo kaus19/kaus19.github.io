@@ -10,22 +10,31 @@ permalink: /about/
 
 I am a Software Engineer at [Accenture Japan](https://www.accenture.com/jp-ja) based in Tokyo.
 I majored in Mathematics and Computing, from [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/), India.
-I have 3 years of professional experience working in diverse teams with multi-national clients involving Micro-service architectures, Scrum methodologies, AWS technologies.
+I have 5 years of professional experience working in diverse teams with multi-national clients involving Micro-service architectures, Scrum methodologies, AWS technologies.
 
 ## Experience
 
 [**Accenture Japan**](https://www.accenture.com/jp-ja)
 
-*Consultant* | 
+*Software Engineer* | 
 Jan 2021 - Present | 
 Tokyo, Japan
 
-- OAuth2.0 and OIDC authentication and authorization.
-- Collaborated in Fraud counter team handling 20+ microservices. Supporting on full lifecycle of product starting from designing, development, testing and deploying of the service.
-- Lead the software development for the migration and implementation of OLAP Reports, from Java/MySQL architecture to Golang/ELK stack.
-- Lead architect in data migration which was several years of critical client production data.
-- Investigated and migrated web servers serving live website of client.
-- Developed CloudFormation templates to create and deploy different cloud infrastructures(like ECS, Dynamo DB, AWS SSM and Lambda).
+- Project 1: Modernization using GenAI
+• Leveraging GenAI to automate modernization from XML to Thymeleaf for 2000+ screens using Python.
+- Project 2: RAG based Chat Application
+• Developed a Retrieval-augmented generation(RAG) based personalized learning assistant system in Python
+utilizing Azure AI Search and OpenAI API.
+• Lead a team of 5 members to implement features like quiz generation, learning paths, course summariza-
+tion, and detailed reports.
+- Project 3: Fraud Prevention Team
+• Developed and maintained a real-time, highly available, & scalable transaction flagging system as part of
+an 8-member team following 2-week sprints.
+• Processed transactions through Kafka and 20+ microservices (written in Java and Golang), with data
+persistence in MySQL, Cassandra, and Redis.
+• Designed and executed the migration of 3 years of production data from MySQL to Elasticsearch, achieving
+a 2x improvement in OLAP report generation.
+• Re-engineered a microservice from Java to Golang for data migration.
 
 
 [**XILINX India Pvt Ltd**](https://www.amd.com/en.html)
@@ -60,7 +69,6 @@ Paper - *Intelligent Orchestration of ADAS Pipelines on Next Generation Automoti
 - Authors - Anirban Ghose, Srijeeta Maity, Arijit Kar, Kaustubh Maloo, Soumyajit Dey
 - Explored compiler level optimizations like kernel fusion and thread partitioning for decreasing the execution time.
 
-## Hobbies
+<!-- ## Hobbies
 
-- I like running, playing sports(tennis, futsal, badminton), [reading](https://www.goodreads.com/user/show/98522023-kaustubh), and travelling.
-- I am learning Japanese, and communication in Japanese has been one of the highlights of my life in Tokyo. 日本語が話せます.
+- I like running, playing sports(tennis, futsal), [reading](https://www.goodreads.com/user/show/98522023-kaustubh), and travelling. -->
